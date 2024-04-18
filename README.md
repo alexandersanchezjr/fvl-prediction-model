@@ -40,7 +40,7 @@ The goal is to build a model that can analyze patient data and predict the likel
 1. **Clone the repository:**
 
 ```bash
-git clone [https://github.com/alexandersanchezjr/fvl-prediction-model.git](https://github.com/alexandersanchezjr/fvl-prediction-model.git)
+git clone https://github.com/alexandersanchezjr/fvl-prediction-model.git
 ```
 
 2. **Install dependencies:**
