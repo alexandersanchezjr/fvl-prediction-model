@@ -1,0 +1,9 @@
+matplotlib==3.4.0
+seaborn==0.11.2
+pandas==1.3.3
+numpy==1.21.2
+pandasql==0.7.3
+scikit-learn==1.0.2
+mlxtend==0.18.0
+openpyxl==3.0.9
+geopy==2.4.1

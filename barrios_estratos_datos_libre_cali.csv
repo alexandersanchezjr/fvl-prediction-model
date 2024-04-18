@@ -1,0 +1,370 @@
+﻿_id,Código único,Barrio,Lados de manzana por estrato 1,Lados de manzana por estrato 2,Lados de manzana por estrato 3,Lados de manzana por estrato 4,Lados de manzana por estrato 5,Lados de manzana por estrato 6,Sin vivienda,Estrato moda
+1,101,Terrón Colorado,84,309, -, -, -,2,43,2
+2,102,Vista Hermosa,199,18, -, -, -, -,30,1
+3,196,Patio Bonito,161, -, -, -, -, -,37,1
+4,199,Aguacatal,209,23,4,5,1,4,59,1
+5,201,Santa Rita, -, -, -,2,6,30,3,6
+6,202,Santa Teresita, -, -, -,"",2,56,7,6
+7,203,Arboledas,2,6,1,2,2,40,24,6
+8,204,Normandía, -,1,1,1,1,36,36,6
+9,205,Juanambú, -, -,1,9,25,20,14,5
+10,206,Centenario, -, -, -,2,31, -,35,5
+11,207,Granada,1,2,7,141,7,3,51,4
+12,208,Versalles, -, -, -,8,53, -,29,5
+13,209,San Vicente, -, -, -,93,71, -,119,4
+14,210,Santa Mónica, -, -,1,13,138,10,92,5
+15,211,Prados del Norte, -, -,5,26,144, -,112,5
+16,212,La Flora, -, -, -,8,195, -,54,5
+17,213,La Campiña, -, -, -,58,4, -,15,4
+18,214,La Paz, -,5,24,2,1, -,10,3
+19,215,El Bosque,1,3,2,30,86, -,37,5
+20,216,Menga, -,1,1,1, -,16,62,6
+21,217,Ciudad Los Alamos, -, -,110,24, -, -,160,3
+22,218,Chipichape, -, -,-,4,10,1,27,5
+23,219,Brisas de Los Alamos , -, -,124,1, -, -,40,3
+24,293,Urbanización La Merced, -, -, -,140, -, -,35,4
+25,294,Vipasa, -, -, -,286,1, -,98,4
+26,295,Urbanización La Flora,1, -, -,43,100, -,79,5
+27,296,Altos de Menga,99,14,2,1,1, -,14,1
+28,297,Sector Altos Normandía   Batac,10,1, -, -, -, -,43,1
+29,298,Area en desarrollo Parque del Amor, -, -, -, -,12, -,25,5
+30,301,El Nacional,4,14,14, -,1, -,8,2
+31,302,El Peñón, -, -,3,10,50,1,14,5
+32,303,San Antonio, -,7,105, -, -, -,19,3
+33,304,San Cayetano, -,2,128, -, -, -,7,3
+34,305,Los Libertadores, -, -,129, -, -, -,8,3
+35,306,San Juan Bosco, -,1,102, -, -, -,26,3
+36,307,Santa Rosa, -, -,51,2, -, -,19,3
+37,308,La Merced, -, -,28,6, -, -,41,3
+38,309,San Pascual,38,5,17, -, -, -,8,1
+39,310,El Calvario,15,1,16, -, -, -,44,3
+40,311,San Pedro, -, -,20, -, -, -,130,3
+41,312,San Nicolás, -,93,86, -, -, -,130,2
+42,313,El Hoyo, -,4,16,1, -, -,38,3
+43,314,El Piloto,3,18,16, -, -, -,32,2
+44,315,Navarro   La Chanca, -,1,15,8, -, -,7,3
+45,401,Jorge Isaacs, -,82,3, -, -, -,48,2
+46,402,Santander, -,65,29, -, -, -,64,2
+47,403,Porvenir, -,108, -, -, -, -,59,2
+48,404,Las Delicias, -, -,119,1, -, -,58,3
+49,405,Manzanares, -,3,20, -, -, -,47,3
+50,406,Salomia, -,4,241, -, -, -,69,3
+51,407,Fátima, -,21, -, -, -, -,1,2
+52,408,Sultana   Berlín   San Francisco, -,37, -, -, -, -,13,2
+53,410,Popular, -, -,32, -, -, -,15,3
+54,411,Ignacio Rengifo, -,3,52, -, -, -,5,3
+55,412,Guillermo Valencia,18,77,31, -, -, -,22,2
+56,413,La Isla,37,118,1, -, -, -,8,2
+57,414,Marco Fidel Suárez, -,35, -, -, -, -,2,2
+58,415,Evaristo García, -,39, -, -, -, -,15,2
+59,416,La Esmeralda, -,39,22, -, -, -,28,2
+60,417,Bolivariano, -,25,8, -, -, -,24,2
+61,418,Barrio Olaya Herrera,1,79, -, -, -, -,2,2
+62,419,Unidad Res. Bueno Madrid, -,7,8, -, -, -,1,3
+63,420,Flora Industrial,6,5,24,1, -, -,58,3
+64,421,Calima, -, -,93, -, -, -,27,3
+65,423,Industria de Licores, -, -, -, -, -, -,4,NR
+66,497,La Alianza, -,15,31, -, -, -,29,3
+67,501,El Sena, -, -,202,1, -, -,99,3
+68,502,Los Andes, -, -,85,1, -, -,32,3
+69,503,Los Guayacanes, -,1,236, -, -, -,234,3
+70,504,Chiminangos Segunda Etapa, -, -,10, -, -, -,19,3
+71,505,Chiminangos Primera Etapa, -, -,12, -, -, -,63,3
+72,506,Metropolitano del Norte, -, -,60,4, -, -,60,3
+73,594,Los Parques   Barranquilla, -, -,131,6, -, -,141,3
+74,595,Villa del Sol, -, -,2,11, -, -,14,4
+75,596,Paseo de Los Almendros, -, -,109,1, -, -,74,3
+76,597,Los Andes B   La Riviera, -,24,58, -, -, -,27,3
+77,598,Torres de Comfandi, -, -,134,10, -, -,146,3
+78,599,Villa del Prado   El Guabito, -,12,361,1, -, -,387,3
+79,601,San Luís, -,225, -, -, -, -,54,2
+80,602,Jorge Eliecer Gaitán, -,191,5, -, -, -,126,2
+81,603,Paso del Comercio,24,126, -, -, -, -,141,2
+82,604,Los Alcazares, -, -,44, -, -, -,28,3
+83,605,Petecuy Primera Etapa,19,141, -, -, -, -,73,2
+84,606,Petecuy Segunda Etapa,31,145, -, -, -, -,82,2
+85,607,La Rivera I,2,118, -, -, -, -,52,2
+86,608,Los Guaduales, -,20,148, -, -, -,117,3
+87,609,Petecuy Tercera Etapa,11,102, -, -, -, -,47,2
+88,610,Ciudadela Floralia,18,475, -, -, -, -,310,2
+89,695,Fonaviemcali, -,1,61, -, -, -,16,3
+90,696,San Luís II, -,148, -, -, -, -,112,2
+91,697,Urbanización Calimio,8,164, -, -, -, -,149,2
+92,698,Sector Puente del Comercio, -,76,15, -, -, -,57,2
+93,701,Alfonso López 1a Etapa,22,115,104, -, -, -,59,2
+94,702,Alfonso López 2a Etapa,18,22,88, -, -, -,55,3
+95,703,Alfonso López 3a Etapa,2,44,169, -, -, -,69,3
+96,704,Puerto Nuevo,37, -, -, -, -, -,12,1
+97,705,Puerto Mallarino,27,76, -, -, -, -,35,2
+98,706,Urbanización El Angel del Hogar,1,73, -, -, -, -,71,2
+99,707,Siete de Agosto,1,38,172, -, -, -,50,3
+100,708,Los Pinos, -,50,25, -, -, -,21,2
+101,709,San Marino, -,195, -, -, -, -,50,2
+102,710,Las Ceibas, -,2,161,1, -, -,191,3
+103,711,Base Aérea, -, -,1, -, -, -,4,NR
+104,797,Parque de La Caña, -,4,16, -, -, -,19,3
+105,798,Fepicol, -,6,34, -, -, -,16,3
+106,801,Primitivo Crespo, -,66,62, -, -, -,16,2
+107,802,Simón Bolivar, -,2,52, -, -, -,3,3
+108,803,Saavedra Galindo, -,81,53, -, -, -,16,2
+109,804,Uribe Uribe, -,27,20, -, -, -,2,2
+110,805,Santa Mónica Popular, -, -,80, -, -, -,6,3
+111,806,La Floresta, -,21,135, -, -, -,13,3
+112,807,Benjamín Herrera, -,21,90, -, -, -,23,3
+113,808,Municipal, -,6,64, -, -, -,14,3
+114,809,Industrial, -,56, -, -, -, -,110,2
+115,810,El Troncal, -,60,177, -, -, -,42,3
+116,811,Las Américas, -, -,73, -, -, -,17,3
+117,812,Atanasio Girardot, -,1,152, -, -, -,11,3
+118,813,Santa Fe, -, -,124, -, -, -,12,3
+119,814,Chapinero, -, -,152, -, -, -,23,3
+120,815,Villa Colombia, -, -,189, -, -, -,36,3
+121,816,EL Trebol, -, -,99, -, -, -,22,3
+122,817,La Base, -,2,161, -, -, -,32,3
+123,818,Urbanización La Base, -, -,192, -, -, -,45,3
+124,901,Alameda, -, -,126, -, -, -,15,3
+125,902,Bretaña, -, -,168, -, -, -,16,3
+126,903,Junín, -, -,115, -, -, -,17,3
+127,904,Guayaquil, -,3,242, -, -, -,23,3
+128,905,Aranjuez, -, -,60, -, -, -,4,3
+129,906,Manuel María Buenaventura, -, -,51, -, -, -,6,3
+130,907,Santa Mónica Belalcazar, -, -,23, -, -, -,5,3
+131,908,Belalcazar, -,28,128, -, -, -,41,3
+132,909,Sucre,130,81,1, -, -, -,74,1
+133,910,Barrio Obrero, -,145,1, -, -, -,45,2
+134,1001,El Dorado, -, -,57, -, -, -,28,3
+135,1002,El Guabal, -,8,344, -, -, -,73,3
+136,1003,La Libertad, -, -,56, -, -, -,0,3
+137,1004,Santa Elena, -,30,140, -, -, -,26,3
+138,1005,Las Acacias, -, -,43, -, -, -,5,3
+139,1006,Santo Domingo, -, -,54, -, -, -,2,3
+140,1007,Jorge Zawadsky, -, -,73, -, -, -,3,3
+141,1008,Olímpico, -, -,1,87, -, -,25,4
+142,1009,Cristóbal Colón, -,9,260, -, -, -,20,3
+143,1010,La Selva, -, -,60, -, -, -,26,3
+144,1011,Barrio Departamental, -, -,1,133,2, -,23,4
+145,1012,Pasoancho, -, -,17,23, -, -,8,4
+146,1013,Panamericano, -, -,120,1, -, -,11,3
+147,1014,Colseguros Andes, -, -,20,62,1, -,43,4
+148,1015,San Cristóbal, -, -,84, -, -, -,7,3
+149,1016,Las Granjas, -,7,77,3, -, -,11,3
+150,1017,San Judas Tadeo I, -,49,125, -, -, -,5,3
+151,1018,San Judas Tadeo II, -,17,77, -, -, -,22,3
+152,1101,Barrio San Carlos, -, -,169, -, -, -,35,3
+153,1102,Maracaibo, -, -,24, -, -, -,0,3
+154,1103,La Independencia, -, -,257, -, -, -,16,3
+155,1104,La Esperanza, -,1,46, -, -, -,2,3
+156,1105,Urbanización Boyacá , -,11,36, -, -, -,2,3
+157,1106,El Jardín, -,4,169, -, -, -,23,3
+158,1107,La Fortaleza, -,31,84, -, -, -,9,3
+159,1108,El Recuerdo, -, -,44, -, -, -,7,3
+160,1109,Aguablanca, -,15,81, -, -, -,23,3
+161,1110,El Prado, -,2,16, -, -, -,9,3
+162,1111,20 de Julio, -, -,35, -, -, -,8,3
+163,1112,Prados de Oriente, -, -,78, -, -, -,17,3
+164,1113,Los Sauces,1,2,119, -, -, -,29,3
+165,1114,Villa del Sur, -, -,112, -, -, -,62,3
+166,1115,José Holguín Garcés, -, -,28, -, -, -,11,3
+167,1116,León XIII, -,106, -, -, -, -,6,2
+168,1117,José María Cordoba, -, -,27, -, -, -,9,3
+169,1118,San Pedro Claver, -,105, -, -, -, -,12,2
+170,1119,Los Conquistadores,4,97, -, -, -, -,9,2
+171,1120,La Gran Colombia, -,34, -, -, -, -,6,2
+172,1121,San Benito, -,60, -, -, -, -,7,2
+173,1122,Primavera, -,71,62, -, -, -,34,2
+174,1201,Villanueva, -,60, -, -, -, -,4,2
+175,1202,Asturias, -,72, -, -, -, -,12,2
+176,1203,Eduardo Santos, -,68, -, -, -, -,6,2
+177,1204,Barrio Alfonso Barberena A., -,71, -, -, -, -,7,2
+178,1205,El Paraiso, -, -,52, -, -, -,8,3
+179,1206,Fenalco Kennedy, -, -,50, -, -, -,12,3
+180,1207,Nueva Floresta, -,3,514, -, -, -,82,3
+181,1208,Julio Rincón, -,32,1, -, -, -,22,2
+182,2099,La Sultana,132, -, -, -, -, -,37,1
+183,1209,Doce de Octubre, -,18,35, -, -, -,19,3
+184,1210,El Rodeo, -,226, -, -, -, -,14,2
+185,1211,Sindical, -,1,62, -, -, -,5,3
+186,1212,Bello Horizonte, -, -,16, -, -, -, -,3
+187,1301,Ulpiano Lloreda, -,110, -, -, -, -,32,2
+188,1302,El Vergel,377, -, -, -, -, -,49,1
+189,1303,El Poblado,9,211, -, -, -, -,72,2
+190,1304,El Poblado II,105,234, -, -, -, -,62,2
+191,1305,Los Comuneros II Etapa,2,173, -, -, -, -,77,2
+192,1306,Ricardo Balcazar, -,97, -, -, -, -,22,2
+193,1307,Omar Torrijos,4,109, -, -, -, -,26,2
+194,1308,El Diamante,4,234, -, -, -, -,10,2
+195,1309,Lleras Restrepo, -,26, -, -, -, -,9,2
+196,1310,Villa del Lago,11,13,220, -, -, -,178,3
+197,1311,Los Robles,5,116, -, -, -, -,42,2
+198,1312,Rodrigo Lara Bonilla,23,80, -, -, -, -,9,2
+199,1313,Charco Azul,106,23, -, -, -, -,15,1
+200,1314,Villablanca,6,64, -, -, -, -,23,2
+201,1315,Calypso,3,10,84, -, -, -,91,3
+202,1390,Yira Castro,2,68,1, -, -, -,14,2
+203,1393,Lleras Restrepo II Etapa,22,8, -, -, -, -,8,1
+204,1394,Marroquín III,16,71, -, -, -, -,36,2
+205,1395,Los Lagos,5,219, -, -, -, -,43,2
+206,1397,Sector Laguna del Pondaje,67,29, -, -, -, -,45,1
+207,1398,El Pondaje,5,53, -, -, -, -,45,2
+208,1399,Sect. Asprosocial   Diamante, -,30,8, -, -, -,19,2
+209,1401,Alfonso Bonilla Aragón,480, -, -, -, -, -,201,1
+210,1402,Alirio Mora Beltran,67,320, -, -, -, -,42,2
+211,1403,Manuela Beltran,387, -, -, -, -, -,187,1
+212,1404,Las Orquídeas,202, -, -, -, -, -,67,1
+213,1405,José M. Marroquin II Etapa,179,197, -, -, -, -,152,2
+214,1406,José M. Marroquin I Etapa,121,364, -, -, -, -,196,2
+215,1495,Puerta del Sol,74, -, -, -, -, -,44,1
+216,1496,Los Naranjos I,78, -, -, -, -, -,18,1
+217,1498,Promociones Populares B,560,-, -, -, -, -,192,1
+218,1499,Los Naranjos II,176, -, -, -, -, -,65,1
+219,1501,El Retiro,227, -, -, -, -, -,105,1
+220,1502,Los Comuneros I Etapa,57,174, -, -, -, -,115,2
+221,1503,Laureano Gómez,158, -, -, -, -, -,34,1
+222,1504,Vallado,11,330, -, -, -, -,106,2
+223,1596,Ciudad Cordoba, -,41,423, -, -, -,308,3
+224,1598,Mojica,274,132, -, -, -, -,182,1
+225,1599,El Morichal,232,442, -, -, -, -,156,2
+226,1601,Mariano Ramos,4,473, -, -, -, -,57,2
+227,1602,República de Israel,2,310, -, -, -, -,40,2
+228,1603,Unión de Vivienda Popular,4,324, -, -, -, -,55,2
+229,1604,Antonio Nariño,90,327, -, -, -, -,47,2
+230,1605,Brisas del Limonar, -,72, -, -, -, -,48,2
+231,1697,Ciudad 2000, -, -,1,166, -, -,132,4
+232,1698,La Alborada, -, -,2, -, -, -,2,3
+233,1701,La Playa, -, -,10, -, -, -,1,3
+234,1702,Primero de Mayo, -, -, -,97,1, -,8,4
+235,1703,Ciudadela Comfandi, -, -,51,8,8, -,59,3
+236,1705,Ciudad Universitaria, -, -, -, -, -,1,7,NR
+237,1774,Caney, -, -, -,227,110, -,204,4
+238,1775,Lili, -, -, -,88,50, -,68,4
+239,1778,Santa Anita   La Selva, -, -, -,21,69, -,70,5
+240,1780,El Ingenio, -, -, -,1,139,90,136,5
+241,1781,Mayapan   Las Vegas, -, -,2, -,71, -,69,5
+242,1782,Las Quintas de Don Simón, -, -, -,4,42, -,77,5
+243,1783,Ciudad Capri, -, -, -,58,130, -,72,5
+244,1784,La Hacienda, -,1, -,6,45, -,133,5
+245,1785,Los Portales   Nuevo Rey, -, -, -,1,28, -,40,5
+246,1786,Cañaverales   Los Samanes, -,3,81,26, -, -,62,3
+247,1787,El Limonar, -, -,26,20, -, -,21,3
+248,1788,Bosques del Limonar, -, -,1,35,4, -,24,4
+249,1789,El Gran Limonar   Cataya, -, -,5,13,104, -,53,5
+250,1790,El Gran Limonar, -, -, -,2,69, -,33,5
+251,1791,Unicentro Cali, -, -,1, -,14, -,31,5
+252,1793,Ciudadela Pasoancho, -, -, -, -,5,1,11,5
+253,1794,Prados del Limonar, -, -, -,20,10,2,44,4
+254,1796,Urbanización San Joaquin, -, -, -, -,21,4,61,5
+255,1801,Buenos Aires, -,1,54, -,1, -,22,3
+256,1802,Barrio Caldas, -, -,101, -, -, -,30,3
+257,1803,Los Chorros,1,12,44,13, -, -,36,3
+258,1804,Meléndez, -, -,53,2, -, -,19,3
+259,1805,Los Farallones, -, -,32,1, -, -,14,3
+260,1807,Francisco Eladio Ramirez, -, -,100, -, -, -,12,3
+261,1808,Prados del Sur,6,96, -, -, -, -,13,2
+262,1809,Horizontes, -, -,22, -, -, -,7,3
+263,1810,Mario Correa Rengifo,10,74, -, -, -, -,12,2
+264,1811,Lourdes,2,79,1, -, -, -,12,2
+265,1812,Colinas del Sur, -,1,21, -, -, -,9,3
+266,1813,Alferez Real, -, -,28,5, -, -,11,3
+267,1814,Nápoles, -,1,62,3, -, -,12,3
+268,1815,El Jordán,28,121,1, -, -, -,19,2
+269,1816,Cuarteles Nápoles,29,6, -, -, -, -,8,1
+270,1890,Sector Alto de los Chorros,245,6, -, -, -, -,29,1
+271,1891,Polvorines,16,26,1,1, -, -,69,2
+272,1896,Sector Meléndez, -, -,41, -, -, -,6,3
+273,1897,Sector Alto Jordán,286,54, -, -, -, -,23,1
+274,1898,Alto Nápoles,309,93,3, -,5, -,141,1
+275,1901,El Refugio, -,4,1,127,3, -,51,4
+276,1902,La Cascada, -, -, -,12,21, -,39,5
+277,1903,El Lido, -, -,2,39,59, -,55,5
+278,1904,Urbanización Tequendama, -, -, -,22,74, -,17,5
+279,1905,Barrio Eucarístico, -, -, -,118,7, -,26,4
+280,1906,San Fernando Nuevo, -, -, -,54,26, -,34,4
+281,1907,Urbanización Nueva Granada, -, -, -,52,9, -,0,4
+282,1908,Santa Isabel, -,3,3,49,24,11,30,4
+283,1909,Bellavista,7,63,26,8,17,15,35,2
+284,1910,San Fernando Viejo, -, -,22,93,87, -,37,4
+285,1911,Miraflores, -, -,14,40,5, -,2,4
+286,1912,3 de Julio, -, -, -,63, -, -,12,4
+287,1913,El Cedro, -, -,10,103, -, -,30,4
+288,1914,Champagnat, -, -,4,92, -, -,19,4
+289,1915,Urbanización Colseguros, -, -,4,112, -, -,17,4
+290,1916,Los Cambulos, -, -,2,60,22, -,45,4
+291,1917,El Mortiñal,12,34, -, -, -, -,6,2
+292,1918,Urbanización Militar, -, -, -,9,4, -,43,4
+293,1919,Cuarto de Legua   Guadalupe, -, -, -,1,41, -,15,5
+294,1921,Nueva Tequendama, -, -, -,5,113, -,47,5
+295,1922,Camino Real   J. Borrero S., -, -,4,27,40, -,26,5
+296,1923,Camino Real   Los Fundadores,10,2, -,6,16, -,17,5
+297,1981,Sector Altos de Santa Isabel,2,2, -, -,2,3,7,6
+298,1982,Santa Barbara, -, -, -, -,4,2,1,5
+299,1983,Tejares   Cristales, -,1, -, -,5,65,41,6
+300,1984,Unidad Res. Santiago de Cali, -, -, -,5,1, -,12,4
+301,1985,Unidad Res. El Coliseo, -, -, -,3, -, -,6,4
+302,1988,Cañaveralejo   Seguros Patria, -, -, -,20,68,1,42,5
+303,1992,Cañaveral , -, -, -, -,10,17,3,6
+304,1994,Pampa Linda, -, -, -,2,72, -,52,5
+305,1995,Sector Cañaveralejo Guadalupe, -,2,1,5,13, -,35,5
+306,1997,Sector Bosque Municipal,3,1, -, -, -, -,14,1
+307,1999,U. Dep. A. Galindo   Plaza Toros, -, -, -, -, -, -,8,NR
+308,2001,El Cortijo,6,15,1, -, -, -,7,2
+309,2002,Belisario Caicedo, -,1,48, -, -, -,11,3
+310,2003,Siloé,487,145, -, -, -, -,110,1
+311,2004,Lleras Camargo,409, -, -, -, -, -,87,1
+312,2005,Belén,97,48,5, -, -, -,50,1
+313,2006,Brisas de Mayo,204,8, -, -, -, -,96,1
+314,2007,Tierra Blanca,65, -, -, -, -, -,24,1
+315,2008,Pueblo Joven,43,1, -, -, -, -,35,1
+316,2097,Cementerio   Carabineros, -, -, -, -, -, -,20,NR
+317,2098,Venezuela   Urb. Cañaveralejo,51,20,1, -, -, -,53,1
+318,2101,Pízamos I,150, -, -, -, -, -,152,1
+319,2102,Pízamos II,105, -, -, -, -, -,82,1
+320,2103,Calimio Desepaz,163,86, -, -, -, -,266,1
+321,2104,El Remanso,144,1, -, -, -, -,67,1
+322,2105,Los Líderes,52,1, -, -, -, -,29,1
+323,2106,Desepaz Invicali,222, -, -, -, -, -,248,1
+324,2107,Compartir,96,96, -, -, -, -,236,1
+325,2108,Talanga,177, -, -, -, -, -,188,1
+326,2194,Villamercedes I Villa Luz Las Garzas,70, -, -, -, -, -,36,1
+327,2195,Pizamos III   Las Dalias,48, -, -, -, -, -,53,1
+328,2196,Potrero Grande,609,19, -, -, -, -,16,1
+329,2197,Ciudadela del Río   CVC,65,96, -, -, -, -,100,2
+330,2198,Valle Grande,1,242, -, -, -, -,232,2
+331,2199,Planta de Tratamiento,1, -, -, -, -, -, -,NR
+332,2201,Urbanización Ciudad Jardín, -, -, -, -,19,120,85,6
+333,2296,Parcelaciones Pance, -, -, -, -,3,213,180,6
+334,2297,Urbanización Río Lili, -,13, -, -, -,21,37,6
+335,2298,Ciudad Campestre, -, -, -,1,6,23,19,6
+336,2299,Club Campestre, -, -, -, -, -,1,11,6
+337,5197,Ciudad Meléndez -  Las Vegas, -,49, -,7,6, -, -,2
+338,5294,Parcelación Andalucía, -, -, -,26,2, -,30,4
+339,5295,Piedra Grande, -, -, -,30,2,4,90,4
+340,5399,Pance Suburbano, -, -, -, -,4,56,181,6
+341,5410,La Riverita, -,-,-,-, -,34,5,6
+342,5486,La Luisa,1,5,20,10, -, -,8,3
+343,5487,La Sirena,47,30, -,1, -,-,22,1
+344,5488,Bella Suiza,6,12, -,6,1,1,8,2
+345,5492,Parque de la Bandera,122, -, -, -, -, -,89,1
+346,5607,El Mango - La Reforma,"",19, -, -, -, -,7,2
+347,-,Comuna 1,653,350,4,5,1,6,169,1
+348,-,Comuna 2,114,33,279,895,890,212,1221,4
+349,-,Comuna 3,60,146,746,27,51,1,531,3
+350,-,Comuna 4,62,762,714,2,0,0,599,2
+351,-,Comuna 5,0,37,"1,400",35,0,0,1296,3
+352,-,Comuna 6,113,"1,932",273,0,0,0,1364,2
+353,-,Comuna 7,108,625,770,1,0,0,652,3
+354,-,Comuna 8,0,343,"1,875",0,0,0,443,3
+355,-,Comuna 9,130,257,915,0,0,0,246,3
+356,-,Comuna 10,0,120,"1,609",309,3,0,338,3
+357,-,Comuna 11,5,539,"1,387",0,0,0,336,3
+358,-,Comuna 12,0,551,730,0,0,0,191,3
+359,-,Comuna 13,772,"1,978",313,0,0,0,927,2
+360,-,Comuna 14,"2,324",881,0,0,0,0,1164,1
+361,-,Comuna 15,959,"1,119",423,0,0,0,1006,2
+362,-,Comuna 16,100,"1,506",3,166,0,0,381,2
+363,-,Comuna 17,0,4,177,627,920,98,1284,5
+364,-,Comuna 18,932,570,564,25,6,0,504,1
+365,-,Comuna 19,34,112,93,"1,127",743,114,824,4
+366,-,Comuna 20,"1,494",238,55,0,0,0,530,1
+367,-,Comuna 21,"1,903",541,0,0,0,0,1705,1
+368,-,Comuna 22,0,13,0,1,28,378,332,6
+369,-,Otros,176,115,20,80,15,95,440,1
